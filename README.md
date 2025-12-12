@@ -2,6 +2,7 @@
 
 YARA signature evasion via targeted byte patching. Scans shellcode for YARA matches and XORs only the specific bytes that trigger detections.
 
+
 ## How It Works
 
 1. Scans shellcode against 12,000+ YARA rules
@@ -146,3 +147,6 @@ Patch table format (7 bytes per entry):
 ## License
 
 For authorized security testing only.
+
+## Credits
+Written by @nickvourd & @kypvas
