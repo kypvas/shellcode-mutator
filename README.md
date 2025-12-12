@@ -98,23 +98,7 @@ x86_64-w64-mingw32-gcc simple_loader.c -o loader.exe
 
 ## Example Output
 
-```
-============================================================
-PATCHING COMPLETE
-============================================================
-Original size: 363545 bytes
-Patched size:  363741 bytes
-Size change:   +196 bytes (stub overhead)
-
-Rules Checked: 12399 rules from 669 rule sets
-YARA matches before: 4
-YARA matches after:  0
-
-Output written to:   patched.bin
-============================================================
-
-[+] SUCCESS: All YARA signatures evaded!
-```
+![Example Output](screenshot.png)
 
 ## Project Structure
 
