@@ -9,6 +9,7 @@ __pycache__/
 # Generated files
 *.bin
 shellcode.h
+*.obj
 *.exe
 
 # macOS
