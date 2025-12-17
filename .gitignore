@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Generated files
+*.bin
+shellcode.h
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
