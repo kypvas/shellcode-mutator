@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Mode-Red%20Team-red">
 </p>
 
-<p align="center">Two-to-three sentence description paragraph.</p>
+<p align="center">Description</p>
 YARA signature evasion via targeted byte patching. Scans shellcode for YARA matches and XORs only the specific bytes that trigger detections.
 
 
