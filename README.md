@@ -1,5 +1,18 @@
-# Shellcode Signature Patcher
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT--NAME-TAGLINE-red?style=for-the-badge" alt="Name">
+</p>
 
+<h1 align="center">Shellcode Mutator</h1>
+
+<p align="center"><strong>One-line tagline</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-green">
+  <img src="https://img.shields.io/badge/Lang-Python-yellow">
+  <img src="https://img.shields.io/badge/Mode-Red%20Team-red">
+</p>
+
+<p align="center">Two-to-three sentence description paragraph.</p>
 YARA signature evasion via targeted byte patching. Scans shellcode for YARA matches and XORs only the specific bytes that trigger detections.
 
 
