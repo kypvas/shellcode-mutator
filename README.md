@@ -4,7 +4,7 @@
 
 <h1 align="center">Shellcode Mutator</h1>
 
-<p align="center"><strong>One-line tagline</strong></p>
+<p align="center"><strong>YARA signature evasion via targeted byte patching. Scans shellcode for YARA matches and XORs only the specific bytes that trigger detections.</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-green">
@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Mode-Red%20Team-red">
 </p>
 
-<p align="center">Description</p>
-YARA signature evasion via targeted byte patching. Scans shellcode for YARA matches and XORs only the specific bytes that trigger detections.
 
 
 ## How It Works
